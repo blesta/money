@@ -1,0 +1,13 @@
+{
+    "name":"blesta/money",
+    "authors": [
+        {
+            "name": "Cody Phillips",
+            "email": "therealclphillip@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "suggest": {
+        "sebastianBergmann/money": "Allow use of Blesta\\Money\\Money and Blesta\\Money\\Currency."
+    }
+}
